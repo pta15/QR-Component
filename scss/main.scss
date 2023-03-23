@@ -18,9 +18,8 @@ body {
     padding: 0;
 }
 
-.main{
+main{
     background-color: $light-gray;
-    width: 100vw;
     height: 100vh;
     display: flex;
 	justify-content: center;
@@ -42,7 +41,7 @@ img{
     border-radius: 5%;
 }
 
-h2{
+h1{
     color: $dark-blue;
     font-weight: $bold-weight;
 }
